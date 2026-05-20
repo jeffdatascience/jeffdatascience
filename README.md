@@ -26,6 +26,51 @@
 ---
 
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🚀 About Me
+
+```python
+class JeffersonHernandez:
+
+    def __init__(self):
+        self.role = [
+            "Statistician",
+            "Data Analyst",
+            "Data Scientist"
+        ]
+
+        self.interests = [
+            "Machine Learning",
+            "Business Analytics",
+            "Predictive Modeling",
+            "Statistical Analysis"
+        ]
+
+        self.languages = [
+            "Python",
+            "R",
+            "SQL"
+        ]
+
+        self.tools = [
+            "Power BI",
+            "Git",
+            "GitHub"
+        ]
+
+        self.current_focus = "Turning data into insights and real-world solutions"
+
+    def philosophy(self):
+        return "Without data, you're just another person with an opinion."
+```
+
+---
+
+
+
 # Hi, I'm Jefferson Hernández 👋
 
 🎓 Statistics Student | Data Analyst | Future Data Scientist  
