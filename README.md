@@ -93,3 +93,15 @@ Exploratory analysis, hypothesis testing and statistical modeling.
 ---
 
 ⭐ Always learning and building projects in Data Science and Analytics
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                              FOOTER                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for visiting! Drop a ⭐ if you like my work!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,70:1565C0,100:42A5F5&height=150&section=footer&text=See%20you%20in%20the%20Data!%20👋&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+
+</div>
