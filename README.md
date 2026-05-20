@@ -1,9 +1,14 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     HEADER ANIMADO                           -->
+<!--                        HEADER                                -->
 <!-- ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003d00,70:006600,100:39d353&height=260&section=header&text=Marco%20Mayta&fontSize=80&fontColor=39d353&fontAlignY=42&desc=%E2%9A%A1%20Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20AI%20Builder%20%E2%9A%A1&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,70:1565C0,100:42A5F5&height=260&section=header&text=Jefferson%20Hernandez&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Statistician%20%7C%20Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+
+</div>
+
+
 
 
 
