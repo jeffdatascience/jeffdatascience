@@ -4,12 +4,26 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,70:1565C0,100:42A5F5&height=260&section=header&text=Jefferson%20Hernandez&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Statistician%20%7C%20Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,70:1565C0,100:42A5F5&height=260&section=header&text=Jefferson%20Hernández&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Statistician%20%7C%20Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   TYPING ANIMATIONS                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&pause=800&color=42A5F5&center=true&vCenter=true&random=false&width=750&height=70&lines=%F0%9F%93%8A+Turning+Data+into+Intelligence;%F0%9F%94%AC+From+Raw+Data+to+Real+Impact;%F0%9F%93%88+Statistical+Thinking+for+Better+Decisions;%F0%9F%A4%96+Machine+Learning+%26+Predictive+Analytics;%F0%9F%9A%80+Building+Data-Driven+Solutions" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&random=false&width=620&height=40&lines=import+pandas+as+pd+%23+My+first+love;model.fit(X_train%2C+y_train)+%23+Let%27s+go!;print(%27Hello%2C+World+of+Data%27);accuracy+%3D+0.99+%23+Dream+big;plt.show()+%23+A+picture+is+worth+1000+rows" alt="Code Typing" />
+
+</div>
+
+---
 
 
 # Hi, I'm Jefferson Hernández 👋
