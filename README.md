@@ -181,20 +181,20 @@ Data Science and Machine Learning project focused on the identification of high 
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdatascience&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=42A5F5&text_color=ffffff&border_color=1F2937" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffdatascience&show_icons=true&theme=github_dark&hide_border=false&bg_color=0D1117&title_color=42A5F5&text_color=FFFFFF&icon_color=42A5F5" alt="GitHub Stats"/>
 </p>
-
----
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdatascience&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdatascience&layout=compact&theme=github_dark&hide_border=false&bg_color=0D1117&title_color=42A5F5&text_color=FFFFFF" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 🌎 Connect with Me
 
-- 💼 LinkedIn: www.linkedin.com/in/jefferson-h-l
+- 💼 LinkedIn: [Jefferson Hernández](https://www.linkedin.com/in/jefferson-andres-hernandez-londono/)
 - 📧 Email: hernandezandres1101@gmail.com
 
 ---
