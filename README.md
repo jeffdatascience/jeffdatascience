@@ -67,6 +67,7 @@ class JeffersonHernandez:
         return "Without data, you're just another person with an opinion."
 ```
 
+
 ---
 
 
@@ -75,9 +76,9 @@ class JeffersonHernandez:
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 </br>
-<h2 align="center">⚡ Tech Stack ⚡</h2>
+<h2>⚡ Tech Stack ⚡</h2>
 
-<div align="center">
+<div>
 
 <p>
 	<kbd>
@@ -114,17 +115,18 @@ class JeffersonHernandez:
 
 <p>
 	<kbd>
-		<kbd>🛠️ Tools & Technologies</kbd>
+		<kbd>☁️ Cloud & Tools</kbd>
 		<br>
 		<br>
+		<img alt="AWS" src="https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazon-aws&logoColor=42A5F5">
 		<img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=42A5F5">
 		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=42A5F5">
 		<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0d1117?style=flat&logo=visual-studio-code&logoColor=42A5F5">
-		<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0d1117?style=flat&logo=jupyter&logoColor=42A5F5">
 	</kbd>
 </p>
 
 </div>
+
 
 ---
 
