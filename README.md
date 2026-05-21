@@ -131,6 +131,54 @@ class JeffersonHernandez:
 ---
 
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       TOP PROJECTS                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+</br>
+<h2>📌 Featured Project</h2>
+
+<p>
+
+<a href="#">
+  <img width="420" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeffdatascience&repo=Customer-Lifetime-Value-Prediction&theme=dark&bg_color=0D1117&title_color=42A5F5&hide_border=false&icon_color=42A5F5&show_icons=false&border_radius=8" alt="Customer Lifetime Value Prediction">
+</a>
+
+</p>
+
+### 🏦 Customer Lifetime Value Prediction for Banking
+
+Data Science and Machine Learning project focused on the identification of high economic value customers in the banking sector.
+
+📊 Developed statistical and predictive models for customer value analysis using real banking environments.
+
+⚡ Techniques used:
+- Machine Learning
+- Predictive Modeling
+- Customer Segmentation
+- Statistical Analysis
+- Business Analytics
+
+🛠️ Tech Stack:
+- Python
+- R
+- Power BI
+- SQL
+
+🚧 Repository coming soon...
+
+---
+
+<p align="right">
+  <a href="https://github.com/jeffdatascience?tab=repositories">
+    <img alt="All Projects" src="https://img.shields.io/badge/More%20Projects-0D1117?style=flat-square&logo=github&logoColor=42A5F5">
+  </a>
+</p>
+
+---
+
+
+
 
 ## 📌 Featured Projects
 
