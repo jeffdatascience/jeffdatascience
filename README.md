@@ -192,23 +192,8 @@ Data Science and Machine Learning project focused on the identification of high 
   </a>
 </p>
 
-
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffdatascience&show_icons=true&theme=github_dark&hide_border=false&bg_color=0D1117&title_color=42A5F5&text_color=FFFFFF&icon_color=42A5F5" alt="GitHub Stats"/>
-</p>
-
-## 💻 Most Used Languages
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdatascience&layout=compact&theme=github_dark&hide_border=false&bg_color=0D1117&title_color=42A5F5&text_color=FFFFFF" alt="Top Languages"/>
-</p>
-
-
----
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                         CONTACT                              -->
