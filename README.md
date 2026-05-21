@@ -169,7 +169,7 @@ Data Science and Machine Learning project focused on the identification of high 
 
 ---
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/jeffdatascience?tab=repositories">
     <img alt="All Projects" src="https://img.shields.io/badge/More%20Projects-0D1117?style=flat-square&logo=github&logoColor=42A5F5">
   </a>
@@ -181,7 +181,7 @@ Data Science and Machine Learning project focused on the identification of high 
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffdatascience&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=42A5F5&text_color=ffffff&icon_color=42A5F5&border_color=1F2937" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdatascience&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=42A5F5&text_color=ffffff&border_color=1F2937" height="180"/>
 </p>
 
 ---
