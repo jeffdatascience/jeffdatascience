@@ -175,12 +175,14 @@ Data Science and Machine Learning project focused on the identification of high 
   </a>
 </p>
 
----
 
+---
 
 ## 📊 GitHub Stats
 
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffdatascience&show_icons=true&theme=default)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffdatascience&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=42A5F5&text_color=ffffff&icon_color=42A5F5&border_color=1F2937" height="180"/>
+</p>
 
 ---
 
