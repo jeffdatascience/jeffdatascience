@@ -70,48 +70,65 @@ class JeffersonHernandez:
 ---
 
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                        TECH STACK                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-# Hi, I'm Jefferson Hernández 👋
+</br>
+<h2 align="center">⚡ Tech Stack ⚡</h2>
 
-🎓 Statistics Student | Data Analyst | Future Data Scientist  
-📊 Passionate about Data Science, Machine Learning and Analytics  
-💻 Python • R • SQL • Power BI • Git • GitHub  
+<div align="center">
+
+<p>
+	<kbd>
+		<kbd>📊 Data Science & Programming</kbd>
+		<br>
+		<br>
+		<img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=42A5F5">
+		<img alt="R" src="https://img.shields.io/badge/R-0d1117?style=flat&logo=r&logoColor=42A5F5">
+		<img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=flat&logo=mysql&logoColor=42A5F5">
+	</kbd>
+</p>
+
+<p>
+	<kbd>
+		<kbd>🤖 Machine Learning & Analytics</kbd>
+		<br>
+		<br>
+		<img alt="Pandas" src="https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=42A5F5">
+		<img alt="NumPy" src="https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=42A5F5">
+		<img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat&logo=scikit-learn&logoColor=42A5F5">
+		<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0d1117?style=flat&logo=plotly&logoColor=42A5F5">
+	</kbd>
+</p>
+
+<p>
+	<kbd>
+		<kbd>📈 BI & Visualization</kbd>
+		<br>
+		<br>
+		<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-0d1117?style=flat&logo=powerbi&logoColor=F2C811">
+		<img alt="Excel" src="https://img.shields.io/badge/Excel-0d1117?style=flat&logo=microsoft-excel&logoColor=42A5F5">
+	</kbd>
+</p>
+
+<p>
+	<kbd>
+		<kbd>🛠️ Tools & Technologies</kbd>
+		<br>
+		<br>
+		<img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=42A5F5">
+		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=42A5F5">
+		<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0d1117?style=flat&logo=visual-studio-code&logoColor=42A5F5">
+		<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0d1117?style=flat&logo=jupyter&logoColor=42A5F5">
+	</kbd>
+</p>
+
+</div>
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1F75FE&center=true&vCenter=true&width=700&lines=Statistics+Student;Data+Analyst;Future+Data+Scientist;Python+%7C+R+%7C+SQL+%7C+Power+BI)
 
----
-
-## 🚀 About Me
-
-- 🎓 Final-semester Statistics student
-- 🏦 Experience in banking analytics and BI environments
-- 📊 Interested in Data Science, Machine Learning and Predictive Modeling
-- 📈 Experience building dashboards and analytical solutions
-- 🐍 Working with Python, R, SQL and Power BI
-- 🤖 Interested in AI, Machine Learning and Business Analytics
-- 🚀 Currently improving my skills in Git/GitHub and Data Science tools
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
 
 ## 📌 Featured Projects
 
