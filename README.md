@@ -178,27 +178,6 @@ Data Science and Machine Learning project focused on the identification of high 
 ---
 
 
-
-
-## 📌 Featured Projects
-
-### 📊 Customer Lifetime Value Prediction
-Machine Learning and statistical models for customer value prediction in the banking sector.
-
-### 📈 Banking Analytics Dashboard
-Power BI dashboards and banking KPI analysis.
-
-### 📉 Time Series Forecasting
-ARIMA and forecasting models for temporal data analysis.
-
-### 🤖 Machine Learning Models
-Classification and predictive models using Python and R.
-
-### 📚 Statistical Analysis Projects
-Exploratory analysis, hypothesis testing and statistical modeling.
-
----
-
 ## 📊 GitHub Stats
 
 ![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffdatascience&show_icons=true&theme=default)
