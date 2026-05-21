@@ -190,16 +190,37 @@ Data Science and Machine Learning project focused on the identification of high 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdatascience&layout=compact&theme=github_dark&hide_border=false&bg_color=0D1117&title_color=42A5F5&text_color=FFFFFF" alt="Top Languages"/>
 </p>
 
+
 ---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                         CONTACT                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🌎 Connect with Me
 
-- 💼 LinkedIn: [Jefferson Hernández](https://www.linkedin.com/in/jefferson-andres-hernandez-londono/)
-- 📧 Email: hernandezandres1101@gmail.com
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jefferson-andres-hernandez-londono/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hernandezandres1101@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+
+---
+<div align="center">
+	
+⭐ Always learning and building projects in Data Science and Analytics
+
+</div>
 
 ---
 
-⭐ Always learning and building projects in Data Science and Analytics
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                              FOOTER                          -->
